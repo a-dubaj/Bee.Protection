@@ -19,5 +19,5 @@ Bee Protection - The Buzz is an online site created for national society bee pro
 
 
 ## Technologies
-* HTML 5
+* HTML5
 * CSS
